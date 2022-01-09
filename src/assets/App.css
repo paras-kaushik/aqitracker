@@ -1,0 +1,47 @@
+thead {
+  text-transform: uppercase;
+}
+
+.good {
+  color: #54a94f;
+  font-weight: 900;
+
+  text-align: center;
+}
+
+.satisfactory {
+  color: #a3c853;
+  font-weight: 900;
+
+  text-align: center;
+}
+
+.moderate {
+  color: #ffa006;
+  font-weight: 900;
+
+  text-align: center;
+}
+
+.poor {
+  color: #f39c32;
+  font-weight: 900;
+
+  text-align: center;
+}
+
+.very-poor {
+  color: #e93f33;
+  font-weight: 900;
+
+  text-align: center;
+}
+
+.severe {
+  font-weight: 900;
+
+  text-align: center;
+}
+.spaced-text {
+  letter-spacing: 1.6px;
+}
