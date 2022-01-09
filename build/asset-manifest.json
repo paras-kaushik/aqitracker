@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aqitracker/static/css/main.7a32b100.chunk.css",
+    "main.js": "/aqitracker/static/js/main.96d1dd43.chunk.js",
+    "main.js.map": "/aqitracker/static/js/main.96d1dd43.chunk.js.map",
+    "runtime-main.js": "/aqitracker/static/js/runtime-main.1db770d6.js",
+    "runtime-main.js.map": "/aqitracker/static/js/runtime-main.1db770d6.js.map",
+    "static/css/2.d6008dad.chunk.css": "/aqitracker/static/css/2.d6008dad.chunk.css",
+    "static/js/2.2d41e0be.chunk.js": "/aqitracker/static/js/2.2d41e0be.chunk.js",
+    "static/js/2.2d41e0be.chunk.js.map": "/aqitracker/static/js/2.2d41e0be.chunk.js.map",
+    "index.html": "/aqitracker/index.html",
+    "static/css/2.d6008dad.chunk.css.map": "/aqitracker/static/css/2.d6008dad.chunk.css.map",
+    "static/css/main.7a32b100.chunk.css.map": "/aqitracker/static/css/main.7a32b100.chunk.css.map",
+    "static/js/2.2d41e0be.chunk.js.LICENSE.txt": "/aqitracker/static/js/2.2d41e0be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1db770d6.js",
+    "static/css/2.d6008dad.chunk.css",
+    "static/js/2.2d41e0be.chunk.js",
+    "static/css/main.7a32b100.chunk.css",
+    "static/js/main.96d1dd43.chunk.js"
+  ]
+}
